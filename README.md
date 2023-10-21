@@ -1,1 +1,3 @@
-# landing-page2
+# landing-page
+
+Untuk Latihan Project Landing Page
