@@ -199,7 +199,7 @@
   background-color: #181818;
 }
 
-.cobalagi {
+.contact-us {
   background-color: #000;
   width: 900px;
   height: 200px;
@@ -210,14 +210,14 @@
   border-radius: 8px;
 }
 
-.ad-title {
+.contact-title {
   font-size: 46px;
   color: #e5e7eb;
   font-weight: bolder;
   margin-left: 50px;
 }
 
-.ad-subtext {
+.contact-subtext {
   font-size: 28px;
   color: #e5e7eb;
   margin-left: 50px;
