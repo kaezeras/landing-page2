@@ -10,7 +10,6 @@
   width: 100%;
   height: 80vh;
   background-color: #000;
-  /*background-image: url(images/background.jpg);*/
   background-size: cover;
   background-position: center;
 }
@@ -208,6 +207,10 @@
   align-items: center;
   border: none;
   border-radius: 8px;
+}
+
+.contact-us {
+  display: flex;
 }
 
 .contact-title {
